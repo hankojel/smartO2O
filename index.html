@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="ko">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<title>LMS6.3</title>
+		<link rel="stylesheet" type="text/css" href="./css/reset.css" />
+        <link rel="stylesheet" type="text/css" href="./css/semantic.css" />
+		<style type="text/css">
+            #wrap {width:1200px; margin:40px auto;}
+            h1 {font-size:32px; color:#333; font-weight:700; text-align:center;}
+            h2 {padding:10px 0; font-size:24px; color:#333; font-weight:700;}
+            h3 {padding:10px 0; font-size:18px; color:#333; font-weight:700;}
+            dl.group-box {margin:20px 0; padding:20px; border:1px solid #ddd; border-radius:7px; background:#fff;}
+            dl.group-box dt {padding-bottom:10px; font-size:24px; color:#333; font-weight:500;}
+            dl.group-box dt ul {}
+            dl.group-box dt ul li {}
+            dl.group-box dd {}
+            dl.group-box dd ul {margin-top: 10px;}
+            dl.group-box dd ul ol {width: calc(16.7% - 4px); display: inline-block; vertical-align: top;}
+            dl.group-box dd ul ol ul {}
+            dl.group-box dd ul ol ul li {padding: 2px 0; font-size: 13px;}
+            dl.group-box dd ul ol ul li span.ui.button {width: 16px; height: 16px; padding: 0; line-height: 16px; vertical-align: inherit;}
+            .btn {vertical-align:top;}
+            section {margin-top:20px; clear:both; overflow:hidden;}
+            section a {margin:3px 0 !important;}
+            section ul {float:left; width:200px;}
+            section ul li {}
+            section ul li span {vertical-align: inherit !important;}
+		</style>
+	</head>
+	<body>
+		<div id="wrap">
+			<h1>smartO2O Mockup</h1>
+            <dl class="group-box">
+                <dd>
+                    <a href="index.jsp" class="ui green button" style="width: calc(16.7% - 4px)">메인화면</a>
+                    <a href="http://210.101.173.239/html/mobile/index.asp" class="ui olive button" style="width: calc(16.7% - 4px)">lms6.0 mobile 적용</a>
+                    <div class="ui divider"></div>
+                </dd>
+                <dd><a href="quiz_ca_list.jsp" class="ui teal fluid button">1.퀴즈</a>
+                    <ul>
+                        <ol><a href="quiz_ca_list.jsp" class="ui basic black fluid button">1-1.퀴즈리스트(교수,학생)</a>
+                            <ul>
+                                <li><span class="ui purple mini button">M</span>퀴즈시작추가</li>
+                            </ul>
+                        </ol>
+                        <ol><a href="quiz_item_list.jsp" class="ui basic black fluid button">1-2.문항리스트(교수)</a></ol>
+                        <ol><a href="quiz_qust_choice.jsp" class="ui basic black fluid button">1-3.문항생성(교수)</a>
+                            <ul>
+                                <li><a href="quiz_qust_choice.jsp" class="ui basic button">객관식</a></li>
+                                <li><a href="quiz_qust_short.jsp" class="ui basic button">단답식</a></li>
+                                <li><a href="quiz_qust_ox.jsp" class="ui basic button">OX식</a></li>
+                            </ul>
+                        </ol>
+                        <ol><a href="quiz_view_choice.jsp" class="ui basic black fluid button">1-4.문항보기(교수,학생)</a>
+                            <ul>
+                                <li><a href="quiz_view_choice.jsp" class="ui basic button">객관식</a></li>
+                                <li><a href="quiz_view_short.jsp" class="ui basic button">단답식</a></li>
+                                <li><a href="quiz_view_ox.jsp" class="ui basic button">OX식</a></li>
+                            </ul>
+                        </ol>
+                        <ol><a href="quiz_total_result.jsp" class="ui basic black fluid button">1-5.전체결과(교수)</a>
+                            <ul>
+                                <li><span class="ui purple mini button">M</span>차트보기</li>
+                                <li><a href="quiz_view_result.jsp" class="ui basic button">문항별결과</a></li>
+                            </ul>
+                        </ol>
+                    </ul>
+                    <div class="ui divider"></div>
+                </dd>
+                <dd><a href="post_list.jsp" class="ui teal fluid button">2.포스트</a>
+                    <ul>
+                        <ol><a href="post_ca_list.jsp" class="ui basic black fluid button">2-1.분류리스트</a></ol>
+                        <ol><a href="post_list.jsp" class="ui basic black fluid button">2-2.상세리스트</a></ol>
+                        <ol><a href="post_view.jsp" class="ui basic black fluid button">2-3.글보기</a></ol>
+                        <ol><a href="post_write.jsp" class="ui basic black fluid button">2-4.글쓰기</a></ol>
+                    </ul>
+                    <div class="ui divider"></div>
+                </dd>
+            </dl>
+		</div>
+	</body>
+</html>
