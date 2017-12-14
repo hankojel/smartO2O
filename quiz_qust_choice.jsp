@@ -14,7 +14,7 @@
             </div>
             <form class="ui form mt20">
                 <div class="fields required">
-                    <div class="four wide field"><label for="folderLabel">폴더명</label></div>
+                    <div class="four wide field"><label for="folderLabel">퀴즈명</label></div>
                     <div class="twelve wide field">
                         <div class="ui input">
                             <input type="text" id="folderLabel" value="세상에서 가장 알기쉬운 문학퀴즈">
