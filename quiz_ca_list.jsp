@@ -10,7 +10,8 @@
         <div id="container">
             <div class="option-content">
                 <div class="button-area">
-                    <a href="#0" class="ui yellow large button" data-toggle="modal" data-target="#modal-ca-list"><i class="plus icon"></i>펌핑톡 시작</a>
+                    <a href="quiz_qust_choice.jsp" class="ui yellow large button"><i class="plus icon"></i>문항 추가</a>
+                    <a href="#0" class="ui olive large button" data-toggle="modal" data-target="#modal-ca-list">펌핑톡 시작</a>
                 </div>
             </div>
             <div class="ui icon fluid big input">
@@ -32,7 +33,7 @@
                                     <div class="ui basic buttons">
                                         <a href="#0" class="ui button"><i class="bar chart icon"></i>결과보기</a>
                                         <a href="#0" class="ui button"><i class="download icon"></i>엑셀저장</a>
-                                        <a href="#0" class="ui button"><i class="edit icon"></i>수정</a>
+                                        <a href="#0" class="ui button"><i class="copy icon"></i>복사</a>
                                         <a href="#0" class="ui button"><i class="trash icon"></i>삭제</a>
                                     </div>
                                 </div>
@@ -56,7 +57,7 @@
                                     <div class="ui basic buttons">
                                         <a href="#0" class="ui button"><i class="bar chart icon"></i>결과보기</a>
                                         <a href="#0" class="ui button"><i class="download icon"></i>엑셀저장</a>
-                                        <a href="#0" class="ui button"><i class="edit icon"></i>수정</a>
+                                        <a href="#0" class="ui button"><i class="copy icon"></i>복사</a>
                                         <a href="#0" class="ui button"><i class="trash icon"></i>삭제</a>
                                     </div>
                                 </div>
@@ -80,7 +81,7 @@
                                     <div class="ui basic buttons">
                                         <a href="#0" class="ui button"><i class="bar chart icon"></i>결과보기</a>
                                         <a href="#0" class="ui button"><i class="download icon"></i>엑셀저장</a>
-                                        <a href="#0" class="ui button"><i class="edit icon"></i>수정</a>
+                                        <a href="#0" class="ui button"><i class="copy icon"></i>복사</a>
                                         <a href="#0" class="ui button"><i class="trash icon"></i>삭제</a>
                                     </div>
                                 </div>
@@ -104,7 +105,7 @@
                                     <div class="ui basic buttons">
                                         <a href="#0" class="ui button"><i class="bar chart icon"></i>결과보기</a>
                                         <a href="#0" class="ui button"><i class="download icon"></i>엑셀저장</a>
-                                        <a href="#0" class="ui button"><i class="edit icon"></i>수정</a>
+                                        <a href="#0" class="ui button"><i class="copy icon"></i>복사</a>
                                         <a href="#0" class="ui button"><i class="trash icon"></i>삭제</a>
                                     </div>
                                 </div>
@@ -128,7 +129,7 @@
                                     <div class="ui basic buttons">
                                         <a href="#0" class="ui button"><i class="bar chart icon"></i>결과보기</a>
                                         <a href="#0" class="ui button"><i class="download icon"></i>엑셀저장</a>
-                                        <a href="#0" class="ui button"><i class="edit icon"></i>수정</a>
+                                        <a href="#0" class="ui button"><i class="copy icon"></i>복사</a>
                                         <a href="#0" class="ui button"><i class="trash icon"></i>삭제</a>
                                     </div>
                                 </div>
