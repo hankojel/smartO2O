@@ -11,10 +11,22 @@
                 <div class="fields">
                     <div class="three wide field"><label>유형</label></div>
                     <div class="thirteen wide field">
-                        <select class="ui dropdown list-num" id="ca_select" name="ca_select" title="분류 리스트">
+                        <select class="ui dropdown list-num" id="ca_select" name="ca_select" title="유형 리스트">
                             <option value="퀴즈형">퀴즈형</option>
                             <option value="설문형">설문형</option>
                             <option value="교수자페이스">교수자페이스</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="ui divider"></div>
+                <div class="fields required">
+                    <div class="three wide field"><label>과목명</label></div>
+                    <div class="thirteen wide field">
+                        <select class="ui dropdown list-num" id="ca_select" name="ca_select" title="과목 리스트">
+                            <option>과목을 선택하세요</option>
+                            <option value="문학의 이해">문학의 이해</option>
+                            <option value="문리학의 원리">문리학의 원리</option>
+                            <option value="이 시대의 멘토링">이 시대의 멘토링</option>
                         </select>
                     </div>
                 </div>
@@ -51,8 +63,7 @@
             </div>
             <div class="bottom-content">
                 <a href="modal_ca_list.jsp" class="ui grey button fl">이전단계</a>
-                <button class="ui blue button" type="submit">등록</button>
-                <button class="ui black cancel button" onclick="window.parent.closeModal();">닫기</button>
+                <button class="ui blue button" type="submit">시작하기</button>
             </div>
         </div>
 		<script type="text/javascript" src="js/iframe-content.js"></script>
