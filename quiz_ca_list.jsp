@@ -33,7 +33,7 @@
                                     <div class="ui basic buttons">
                                         <a href="#0" class="ui button"><i class="bar chart icon"></i>결과보기</a>
                                         <a href="#0" class="ui button"><i class="download icon"></i>엑셀저장</a>
-                                        <a href="#0" class="ui button"><i class="copy icon"></i>복사</a>
+                                        <a href="#0" class="ui button" data-toggle="modal" data-target="#modal-ca-copy"><i class="copy icon"></i>복사</a>
                                         <a href="#0" class="ui button"><i class="trash icon"></i>삭제</a>
                                     </div>
                                 </div>
@@ -181,6 +181,25 @@
     <script>
         $('iframe').iFrameResize();
         $('#modal-ca-list').modal('show')
+    </script>
+    <!-- 복사 추가 -->
+    <div class="modal fade" id="modal-ca-copy" tabindex="-1" role="dialog" aria-labelledby="모달영역" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="닫기">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                    <h4 class="modal-title">퀴즈 복사</h4>
+                </div>
+                <div class="modal-body">
+                    <iframe src="modal_ca_copy.jsp" width="100%" scrolling="no"></iframe>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script>
+        $('iframe').iFrameResize();
         window.closeModal = function(){
             $('.modal').modal('hide');
         };
