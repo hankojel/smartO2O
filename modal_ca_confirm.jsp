@@ -45,8 +45,8 @@
                     <div class="three wide field"><label>정답표시</label></div>
                     <div class="thirteen wide field">
                         <div class="ui toggle checkbox toggle-allow">
-                            <input type="checkbox" id="nameLabel" tabindex="0" class="hidden" checked>
-                            <label for="nameLabel">허용</label>
+                            <input type="checkbox" id="scoreLabel" tabindex="0" class="hidden" checked>
+                            <label for="scoreLabel">허용</label>
                         </div>
                     </div>
                 </div>
@@ -55,8 +55,8 @@
                     <div class="three wide field"><label>문제섞기</label></div>
                     <div class="thirteen wide field">
                         <div class="ui toggle checkbox toggle-allow">
-                            <input type="checkbox" id="scoreLabel" tabindex="0" class="hidden">
-                            <label for="scoreLabel">미허용</label>
+                            <input type="checkbox" id="shuffle1Label" tabindex="0" class="hidden">
+                            <label for="shuffle1Label">미허용</label>
                         </div>
                     </div>
                 </div>
@@ -65,8 +65,8 @@
                     <div class="three wide field"><label>보기섞기</label></div>
                     <div class="thirteen wide field">
                         <div class="ui toggle checkbox toggle-allow">
-                            <input type="checkbox" id="summaryLabel" tabindex="0" class="hidden">
-                            <label for="summaryLabel">미허용</label>
+                            <input type="checkbox" id="shuffle2Label" tabindex="0" class="hidden">
+                            <label for="shuffle2Label">미허용</label>
                         </div>
                     </div>
                 </div>
