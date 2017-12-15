@@ -22,7 +22,7 @@
                 <div class="fold-list-box">
                     <div class="header">
                         <a href="quiz_item_list.jsp">
-                            <em>세상에서 가장 알기쉬운 문학퀴즈</em><span class="date">2017-03-30<strong><i class="file text outline icon"></i>5문항</strong></span>
+                            <em>세상에서 가장 알기쉬운 문학퀴즈</em><span class="date">문학의 이해<strong><i class="wait icon"></i>2017-03-30</strong><strong><i class="file text outline icon"></i>5문항</strong></span>
                         </a>
                         <i class="ellipsis vertical icon more-btn"></i>
                     </div>
@@ -46,7 +46,7 @@
                 <div class="fold-list-box">
                     <div class="header">
                         <a href="#0">
-                            <em>기초 스페인어 문법 퀴즈</em><span class="date">2017-03-27<strong><i class="file text outline icon"></i>7문항</strong></span>
+                            <em>기초 스페인어 문법 퀴즈</em><span class="date">문학의 이해<strong><i class="wait icon"></i>2017-03-27</strong><strong><i class="file text outline icon"></i>7문항</strong></span>
                         </a>
                         <i class="ellipsis vertical icon more-btn"></i>
                     </div>
@@ -70,7 +70,7 @@
                 <div class="fold-list-box">
                     <div class="header">
                         <a href="#0">
-                            <em>Data Structures in C언어로 쉽게 풀어쓴 퀴즈</em><span class="date">2017-03-19<strong><i class="file text outline icon"></i>20문항</strong></span>
+                            <em>Data Structures in C언어로 쉽게 풀어쓴 퀴즈</em><span class="date">문리학의 원리<strong><i class="wait icon"></i>2017-03-19</strong><strong><i class="file text outline icon"></i>20문항</strong></span>
                         </a>
                         <i class="ellipsis vertical icon more-btn"></i>
                     </div>
@@ -94,7 +94,7 @@
                 <div class="fold-list-box">
                     <div class="header">
                         <a href="#0">
-                            <em>한국 고대사부터 현대 근대사까지 재미있게 풀어보는 역사 퀴즈</em><span class="date">2017-03-15<strong><i class="file text outline icon"></i>20문항</strong></span>
+                            <em>한국 고대사부터 현대 근대사까지 재미있게 풀어보는 역사 퀴즈</em><span class="date">이 시대의 멘토링<strong><i class="wait icon"></i>2017-03-15</strong><strong><i class="file text outline icon"></i>20문항</strong></span>
                         </a>
                         <i class="ellipsis vertical icon more-btn"></i>
                     </div>
@@ -118,7 +118,7 @@
                 <div class="fold-list-box">
                     <div class="header">
                         <a href="#0">
-                            <em>The diameter of Earth is 8,000 miles (12,875 km)?</em><span class="date">2017-03-03<strong><i class="file text outline icon"></i>20문항</strong></span>
+                            <em>The diameter of Earth is 8,000 miles (12,875 km)?</em><span class="date">이 시대의 멘토링<strong><i class="wait icon"></i>2017-03-03</strong><strong><i class="file text outline icon"></i>20문항</strong></span>
                         </a>
                         <i class="ellipsis vertical icon more-btn"></i>
                     </div>
