@@ -42,7 +42,7 @@
                 </div>
                 <div class="ui divider"></div>
                 <div class="fields">
-                    <div class="three wide field"><label>점수반영</label></div>
+                    <div class="three wide field"><label>문제섞기</label></div>
                     <div class="thirteen wide field">
                         <div class="ui toggle checkbox toggle-allow">
                             <input type="checkbox" id="scoreLabel" tabindex="0" class="hidden">
@@ -52,11 +52,11 @@
                 </div>
                 <div class="ui divider"></div>
                 <div class="fields">
-                    <div class="three wide field"><label>사전설명표시</label></div>
+                    <div class="three wide field"><label>보기섞기</label></div>
                     <div class="thirteen wide field">
                         <div class="ui toggle checkbox toggle-allow">
-                            <input type="checkbox" id="summaryLabel" tabindex="0" class="hidden" checked>
-                            <label for="summaryLabel">허용</label>
+                            <input type="checkbox" id="summaryLabel" tabindex="0" class="hidden">
+                            <label for="summaryLabel">미허용</label>
                         </div>
                     </div>
                 </div>
