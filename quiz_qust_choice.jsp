@@ -23,12 +23,22 @@
                 </div>
                 <div class="ui divider"></div>
                 <div class="fields">
+                    <div class="four wide field"><label>점수반영</label></div>
+                    <div class="twelve wide field">
+                        <div class="ui toggle checkbox toggle-allow">
+                            <input type="checkbox" id="scoreLabel" tabindex="0" class="hidden" checked>
+                            <label for="scoreLabel">허용</label>
+                        </div>
+                    </div>
+                </div>
+                <div class="ui divider"></div>
+                <div class="fields">
                     <div class="four wide field"><label for="difLabel">문제유형</label></div>
                     <div class="twelve wide field">
                         <div class="ui basic fluid buttons">
                             <a href="quiz_qust_choice.jsp" class="ui button active">객관식</a>
-                            <a href="quiz_qust_short.jsp" class="ui button">단답식</a>
                             <a href="quiz_qust_ox.jsp" class="ui button">OX식</a>
+                            <a href="quiz_qust_short.jsp" class="ui button">단답식</a>
                         </div>
                     </div>
                 </div>
@@ -133,10 +143,10 @@
                         </li>
                         <li>
                             <dl>
-                                <dt><a class="ui fluid grey button list-add"><i class="plus icon"></i>보기추가</a></dt>
+                                <dt><a class="ui fluid grey button list-add"><i class="plus icon"></i>추가</a></dt>
                                 <dd>
                                     <div class="ui fluid input">
-                                        <div class="ui checkbox">
+                                        <div class="ui checkbox mr20">
                                             <input type="checkbox" class="hidden">
                                             <label>복수정답 허용 (보기중 1개만 맞으면 정답으로 처리합니다.)</label>
                                         </div>

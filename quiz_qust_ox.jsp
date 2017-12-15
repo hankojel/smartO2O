@@ -23,12 +23,22 @@
                 </div>
                 <div class="ui divider"></div>
                 <div class="fields">
+                    <div class="four wide field"><label>점수반영</label></div>
+                    <div class="twelve wide field">
+                        <div class="ui toggle checkbox toggle-allow">
+                            <input type="checkbox" id="scoreLabel" tabindex="0" class="hidden" checked>
+                            <label for="scoreLabel">허용</label>
+                        </div>
+                    </div>
+                </div>
+                <div class="ui divider"></div>
+                <div class="fields">
                     <div class="four wide field"><label for="difLabel">문제유형</label></div>
                     <div class="twelve wide field">
                         <div class="ui basic fluid buttons">
                             <a href="quiz_qust_choice.jsp" class="ui button">객관식</a>
-                            <a href="quiz_qust_short.jsp" class="ui button">단답식</a>
                             <a href="quiz_qust_ox.jsp" class="ui button active">OX식</a>
+                            <a href="quiz_qust_short.jsp" class="ui button">단답식</a>
                         </div>
                     </div>
                 </div>
