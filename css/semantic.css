@@ -15407,6 +15407,7 @@ i.icon.times.rectangle.outline:before {
   transition: color 0.1s ease, border-color 0.1s ease;
   line-height: 1.2857;
   resize: vertical;
+  font-size: inherit;
 }
 .ui.form textarea:not([rows]) {
   height: 12em;

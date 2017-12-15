@@ -832,9 +832,10 @@ blockquote p.author small {display: inline-block;}
 .checkImg .false{background-image:url(../img/quiz_false.gif);}
 .checkImg input:active +.imgChk, .checkImg input:active +.imgChk,
 .checkImg input:checked +.imgChk, .checkImg input:checked +.imgChk{background-position: 0 -80px;}
-.checkImg .imgChk{cursor:pointer; background-repeat:no-repeat; display:inline-block; width:80px;height:80px; margin: 5%; background-size: 80px auto;}
+.checkImg .imgChk{position: relative; cursor:pointer; background-repeat:no-repeat; display:inline-block; width:80px;height:80px; margin: 5%; background-size: 80px auto;}
 .checkImg input:disabled {pointer-events:none; cursor: default;}
 .checkImg input[disabled] ~ label {user-select: none!important; cursor: default !important;}
+label.correct:before {position: absolute; left: 50%; bottom: -20px; margin-left: -18px; font-family: Icons; font-size: 18px; color: #000; content: "정답";}
 
 @media all and (max-width:1217px){
     .option-content > .ui.dropdown,

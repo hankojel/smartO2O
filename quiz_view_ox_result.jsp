@@ -10,7 +10,7 @@
             <div class="option-content">
                 <h2 class="hmap">세상에서 가장 알기쉬운 문학퀴즈</h2>
                 <div class="button-area">
-                    <a href="quiz_view_ox_result.jsp" class="ui yellow large button"><i class="checkmark icon"></i>퀴즈 제출</a>
+                    <a href="#0" class="ui yellow large button"><i class="checkmark icon"></i>퀴즈 제출</a>
                 </div>
             </div>
             <div class="ui horizontal divider item-num">3/5</div>
@@ -18,12 +18,14 @@
                 <img class="ui centered big image" src="http://cfs1.tistory.com/upload_control/download.blog?fhandle=YmxvZzI5MDkzQGZzMS50aXN0b3J5LmNvbTovYXR0YWNoLzAvOTAwMDAwMDAwMDA1LmpwZw%3D%3D">
                 <div class="ui attached message">
                     <div class="header">지도의 나가사키-후쿠오카-키타규슈를 잇는 지역이 일본초기 문화가 탄생한 지역이다.</div>
+                    <span class="ui blue right corner label"><i class="smile icon"></i></span>
+                    <!--<span class="ui grey right corner label"><i class="frown icon"></i></span>-->
                 </div>
                 <div class="ui bottom attached segment">
                     <div class="checkImg">
-                        <input id="imgChk_true" type="radio" name="imgChk">
-                        <label class="imgChk true" for="imgChk_true"></label>
-                        <input id="imgChk_false" type="radio" name="imgChk">
+                        <input id="imgChk_true" type="radio" name="imgChk" disabled checked>
+                        <label class="imgChk true correct" for="imgChk_true"></label>
+                        <input id="imgChk_false" type="radio" name="imgChk" disabled>
                         <label class="imgChk false" for="imgChk_false"></label>
                     </div>
                 </div>

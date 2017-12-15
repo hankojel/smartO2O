@@ -10,7 +10,7 @@
             <div class="option-content">
                 <h2 class="hmap">세상에서 가장 알기쉬운 문학퀴즈</h2>
                 <div class="button-area">
-                    <a href="quiz_view_short_result.jsp" class="ui yellow large button"><i class="checkmark icon"></i>퀴즈 제출</a>
+                    <a href="#0" class="ui yellow large button"><i class="checkmark icon"></i>퀴즈 제출</a>
                 </div>
             </div>
             <div class="ui horizontal divider item-num">2/5</div>
@@ -18,9 +18,12 @@
                 <img class="ui centered big image" src="https://www.yamanaka-spa.or.jp/global/kor/images/history_01_main.jpg">
                 <div class="ui attached message">
                     <div class="header">다음은 일본 역사서에 나오는 왜와 관련된 내용들 중 일부입니다.<br />교토에서 황실의 경비, 쇼군 저택 경비, 쇼군에 대한 노역, 전시 군역 등을 담당하였기 때문에, 부역을 담당할 만큼의 영지와 재력이 있어야만 이유를 간략히 서술하시오.</div>
+                    <span class="ui blue right corner label"><i class="smile icon"></i></span>
+                    <!--<span class="ui grey right corner label"><i class="frown icon"></i></span>-->
                 </div>
                 <div class="ui bottom attached segment">
-                    <textarea rows="4"></textarea>
+                    <textarea rows="4">영주가 서민의시을 자녀야 한다</textarea>
+                    <a class="ui pointing red basic label">영주의 몰락</a><a class="ui pointing red basic label">혈세 낭비</a><a class="ui pointing red basic label">서민의식</a>
                 </div>
                 <div class="field">
                     <label>사전설명</label>
