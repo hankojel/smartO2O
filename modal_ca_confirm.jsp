@@ -42,6 +42,16 @@
                 </div>
                 <div class="ui divider"></div>
                 <div class="fields">
+                    <div class="three wide field"><label>정답표시</label></div>
+                    <div class="thirteen wide field">
+                        <div class="ui toggle checkbox toggle-allow">
+                            <input type="checkbox" id="nameLabel" tabindex="0" class="hidden" checked>
+                            <label for="nameLabel">허용</label>
+                        </div>
+                    </div>
+                </div>
+                <div class="ui divider"></div>
+                <div class="fields">
                     <div class="three wide field"><label>문제섞기</label></div>
                     <div class="thirteen wide field">
                         <div class="ui toggle checkbox toggle-allow">
