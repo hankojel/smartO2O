@@ -19,6 +19,7 @@
         <script type="text/javascript" src="js/jquery-ui.min.js"></script>
         <script type="text/javascript" src="js/common.js"></script>
         <script type="text/javascript" src="js/semantic.min.js"></script>
+        <script type="text/javascript" src="js/semantic-ui-calendar.min.js"></script>
         <script type="text/javascript" src="js/footable.min.js"></script>
         <script type="text/javascript" src="js/chart.min.js"></script>
     </head>
