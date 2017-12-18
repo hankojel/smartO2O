@@ -7,10 +7,10 @@
         <div id="wrap">
             <div class="ui form">
                 <div class="fields">
-                    <div class="three wide field"><label>퀴즈명</label></div>
+                    <div class="three wide field"><label for="subjectLabel">퀴즈명</label></div>
                     <div class="thirteen wide field">
                         <div class="ui input">
-                            <input type="text">
+                            <input type="text" id="subjectLabel">
                         </div>
                     </div>
                 </div>

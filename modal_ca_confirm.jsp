@@ -9,9 +9,9 @@
             <div class="ui form">
                 <div class="ui divider"></div>
                 <div class="fields">
-                    <div class="three wide field"><label>유형</label></div>
+                    <div class="three wide field"><label for="caLabel">유형</label></div>
                     <div class="thirteen wide field">
-                        <select class="ui dropdown list-num" id="ca_select" name="ca_select" title="유형 리스트">
+                        <select class="ui dropdown list-num" id="caLabel" name="ca_select" title="유형 리스트">
                             <option value="퀴즈형">퀴즈형</option>
                             <option value="설문형">설문형</option>
                             <option value="교수자페이스">교수자페이스</option>
@@ -20,9 +20,9 @@
                 </div>
                 <div class="ui divider"></div>
                 <div class="fields required">
-                    <div class="three wide field"><label>과목명</label></div>
+                    <div class="three wide field"><label for="classLabel">과목명</label></div>
                     <div class="thirteen wide field">
-                        <select class="ui dropdown list-num" id="ca_select" name="ca_select" title="과목 리스트">
+                        <select class="ui dropdown list-num" id="classLabel" name="ca_select" title="과목 리스트">
                             <option>과목을 선택하세요</option>
                             <option value="문학의 이해">문학의 이해</option>
                             <option value="문리학의 원리">문리학의 원리</option>
