@@ -19,7 +19,7 @@
                     </div>
                 </div>
             </div>
-            <table class="table" data-sorting="true" data-paging="true" data-paging-size="10" data-empty="등록된 팀이 없습니다.">
+            <table class="table" data-sorting="true" data-paging="true" data-paging-size="10" data-empty="등록된 문항이 없습니다.">
                 <thead>
                     <tr>
                         <th scope="col" data-type="number" class="num">NO.</th>
