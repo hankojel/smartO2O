@@ -9,8 +9,8 @@
         <%@ include file="inc/mastery_top.jsp" %>
         <div id="container">
             <div class="option-content">
-                <div class="button-area">
-                    <a href="#0" class="ui facebook large button" data-toggle="modal" data-target="#modal-post-add"><i class="plus icon"></i>포스트잇 추가</a>
+                <div class="button-area tc">
+                    <a href="#0" class="ui facebook large button" data-toggle="modal" data-target="#modal-post-add"><i class="plus icon"></i>추가</a>
 <!--                    <a href="#0" class="ui linkedin large button">내 글보기</a>-->
                 </div>
             </div>
@@ -25,7 +25,7 @@
                         <span class="right floated meta">2017-12-18</span>
                     </div>
                     <div class="content">
-                        <div class="header"><a href="post_list.jsp">세상에서 가장 알기쉬운 문학퀴즈에 대해 여러분의 의견은 어떤가요?</a></div>
+                        <div class="header"><a href="post_view.jsp">세상에서 가장 알기쉬운 문학퀴즈에 대해 여러분의 의견은 어떤가요?</a></div>
                     </div>
                 </div>
                 <div class="card">
@@ -70,7 +70,7 @@
             </div>
         </div>
     </div>
-        <!-- 복사 추가 -->
+    <!-- 포스트잇 추가 -->
     <div class="modal fade" id="modal-post-add" tabindex="-1" role="dialog" aria-labelledby="모달영역" aria-hidden="true">
         <div class="modal-dialog" role="document">
             <div class="modal-content">

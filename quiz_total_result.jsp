@@ -10,7 +10,7 @@
         <div id="container">
             <div class="option-content">
                 <h2 class="hmap">세상에서 가장 알기쉬운 문학퀴즈 </h2>
-                <div class="button-area">
+                <div class="button-area tc">
                     <a href="#0" class="ui yellow large button" data-toggle="modal" data-target="#modal-total-chart"><i class="bar chart icon"></i>차트 보기</a>
                     <a href="#0" class="ui olive large button">엑셀 다운</a>
                 </div>

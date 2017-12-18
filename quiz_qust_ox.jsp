@@ -7,7 +7,7 @@
     <div id="wrap">
         <%@ include file="inc/mastery_top.jsp" %>
         <div id="container">
-            <div class="option-content">
+            <div class="option-content tc">
                 <div class="button-area">
                     <div class="ui yellow large label">3번째 문항</div>
                 </div>

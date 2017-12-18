@@ -87,6 +87,13 @@ ul.result-table li span {position: absolute; top: 5px; left: 5px; font-family: '
 .prof-score .head {margin-bottom: 10px; font-size: 18px; color: #333;}
 .prof-score ul.result-table li {padding: 10px 0; font-size: 18px; color: #fff;}
 .prof-score ul.result-table li.correct {background: #099abc;}
+.ui.form .field span.persent {float: right;}
+.ui.form .field.correct span.persent {color: #FF5733;}
+.checkImg .imgChk span.persent {position: absolute; left: 50%; bottom: -20px; display: inline-block; width: 60px; margin-left: -30px;}
+.checkImg .imgChk.correct span.persent {color: #FF5733;}
+
+.name-date {padding-bottom: 10px;}
+.name-date span {margin-right:10px; padding:2px 10px; color:#fff; font-size: inherit; text-align:center; border-radius:18px; background:#5099b8;}
 
 /* tmtimeline UI 변경 */
 .post-group {margin-top: 20px !important;}
@@ -110,7 +117,7 @@ ul.result-table li span {position: absolute; top: 5px; left: 5px; font-family: '
 .comment ul.comment-write > li:last-child {margin: 5px 0 0 0;}
 .comment .article >  ul > li {width: 100%; color: #72a2c6;}
 
-.view-conent {margin: 40px 0; font-size: 16px;}
+.view-conent {margin: 20px 0; font-size: 16px;}
 
 footer {width: 100%; margin-top: -90px; padding: 20px 2%; background: #f1f1f1;}
 footer:after {display:block; clear:both; content:''}
@@ -197,7 +204,7 @@ footer .inner-wrap .expand-link .chosen-single {color:#ccc !important; backgroun
     .fold-list-box .header a em {vertical-align: inherit;}
     .fold-list-box .body-content .item {text-align: center;}
     .fold-list-box .body-content .item .content {float: none !important; margin: 5px !important;}
-    .option-content .button-area {text-align: center;}
+/*    .option-content .button-area {text-align: center;}*/
     .option-content .totalNum {display: inline-block;}
     .element .option-content .button-area {float: right;}
     #container .footable.table, #container .ui.form, #container .ui.checkbox {font-size: inherit;}

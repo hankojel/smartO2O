@@ -13,7 +13,7 @@
             </div>
             <div class="option-content mt20">
                 <span class="totalNum mt5">총 12문항</span>
-                <div class="button-area">
+                <div class="button-area fr">
                     <div class="ui basic buttons">
                         <a href="#0" class="ui button"><i class="trash icon"></i>삭제</a>
                     </div>

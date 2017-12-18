@@ -835,7 +835,7 @@ blockquote p.author small {display: inline-block;}
 .checkImg .imgChk{position: relative; cursor:pointer; background-repeat:no-repeat; display:inline-block; width:80px;height:80px; margin: 5%; background-size: 80px auto;}
 .checkImg input:disabled {pointer-events:none; cursor: default;}
 .checkImg input[disabled] ~ label {user-select: none!important; cursor: default !important;}
-label.correct:before {position: absolute; left: 50%; bottom: -20px; margin-left: -18px; font-size: 18px; color: #000; content: "정답";}
+label.correct:before {position: absolute; left: 50%; top: -20px; margin-left: -18px; font-size: 18px; color: #000; content: "정답";}
 
 @media all and (max-width:1217px){
     .option-content > .ui.dropdown,

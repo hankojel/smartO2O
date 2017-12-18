@@ -7,12 +7,17 @@
     <div id="wrap">
         <%@ include file="inc/mastery_top.jsp" %>
         <div id="container">
-            <div class="option-content mt20">
+            <div class="option-content">
+                <div class="button-area tc">
+                    <a href="#0" class="ui olive large button" data-toggle="modal" data-target="#modal-ca-list">펌핑톡 시작</a>
+                </div>
+            </div>
+            <div class="option-content">
                 <div class="ui icon input">
                     <input type="text" placeholder="Search...">
                     <i class="inverted circular search link icon"></i>
                 </div>
-                <div class="button-area">
+                <div class="button-area fr">
                     <div class="ui basic buttons">
                         <a href="#0" class="ui button"><i class="trash icon"></i>삭제</a>
                     </div>
@@ -29,7 +34,8 @@
                         </th>
                         <th scope="col">퀴즈명</th>
                         <th scope="col" data-breakpoints="xs sm">과목명</th>
-                        <th scope="col" data-breakpoints="xs">날짜</th>
+                        <th scope="col" data-breakpoints="xs sm">날짜</th>
+                        <th scope="col" data-breakpoints="xs sm md" data-sortable="false">결과</th>
                     </tr>
                 </thead>
                 <tbody>
@@ -40,9 +46,15 @@
                                 <input type="checkbox">
                             </div>
                         </td>
-                        <td>세상에서 가장 알기쉬운 문학퀴즈</td>
+                        <td><a href="#0" class="link">세상에서 가장 알기쉬운 문학퀴즈</a></td>
                         <td>문학의 이해</td>
                         <td>2017-03-30</td>
+                        <td>
+                            <div class="ui basic buttons">
+                                <a href="#0" class="ui button"><i class="bar chart icon"></i>결과보기</a>
+                                <a href="#0" class="ui button"><i class="download icon"></i>엑셀저장</a>
+                            </div>
+                        </td>
                     </tr>
                     <tr>
                         <td>4</td>
@@ -51,9 +63,15 @@
                                 <input type="checkbox">
                             </div>
                         </td>
-                        <td>기초 스페인어 문법 퀴즈</td>
+                        <td><a href="#0" class="link">기초 스페인어 문법 퀴즈</a></td>
                         <td>문학의 이해</td>
                         <td>2017-03-27</td>
+                        <td>
+                            <div class="ui basic buttons">
+                                <a href="#0" class="ui button"><i class="bar chart icon"></i>결과보기</a>
+                                <a href="#0" class="ui button"><i class="download icon"></i>엑셀저장</a>
+                            </div>
+                        </td>
                     </tr>
                     <tr>
                         <td>3</td>
@@ -62,9 +80,15 @@
                                 <input type="checkbox">
                             </div>
                         </td>
-                        <td>Data Structures in C언어로 쉽게 풀어쓴 퀴즈</td>
+                        <td><a href="#0" class="link">Data Structures in C언어로 쉽게 풀어쓴 퀴즈</a></td>
                         <td>문학의 이해</td>
                         <td>2017-03-19</td>
+                        <td>
+                            <div class="ui basic buttons">
+                                <a href="#0" class="ui button"><i class="bar chart icon"></i>결과보기</a>
+                                <a href="#0" class="ui button"><i class="download icon"></i>엑셀저장</a>
+                            </div>
+                        </td>
                     </tr>
                     <tr>
                         <td>2</td>
@@ -73,9 +97,15 @@
                                 <input type="checkbox">
                             </div>
                         </td>
-                        <td>한국 고대사부터 현대 근대사까지 재미있게 풀어보는 역사 퀴즈</td>
+                        <td><a href="#0" class="link">한국 고대사부터 현대 근대사까지 재미있게 풀어보는 역사 퀴즈</a></td>
                         <td>문학의 이해</td>
                         <td>2017-03-15</td>
+                        <td>
+                            <div class="ui basic buttons">
+                                <a href="#0" class="ui button"><i class="bar chart icon"></i>결과보기</a>
+                                <a href="#0" class="ui button"><i class="download icon"></i>엑셀저장</a>
+                            </div>
+                        </td>
                     </tr>
                     <tr>
                         <td>1</td>
@@ -84,9 +114,15 @@
                                 <input type="checkbox">
                             </div>
                         </td>
-                        <td>The diameter of Earth is 8,000 miles (12,875 km)?</td>
+                        <td><a href="#0" class="link">The diameter of Earth is 8,000 miles (12,875 km)?</a></td>
                         <td>문학의 이해</td>
                         <td>2017-03-03</td>
+                        <td>
+                            <div class="ui basic buttons">
+                                <a href="#0" class="ui button"><i class="bar chart icon"></i>결과보기</a>
+                                <a href="#0" class="ui button"><i class="download icon"></i>엑셀저장</a>
+                            </div>
+                        </td>
                     </tr>
                 </tbody>
             </table>
@@ -95,6 +131,26 @@
             </div>
         </div>
     </div>
+    <!-- 펌핑톡 추가 -->
+    <div class="modal fade" id="modal-ca-list" tabindex="-1" role="dialog" aria-labelledby="모달영역" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="닫기">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                    <h4 class="modal-title">펌핑톡 시작하기</h4>
+                </div>
+                <div class="modal-body">
+                    <iframe src="modal_ca_list.jsp" width="100%" scrolling="no"></iframe>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script>
+        $('iframe').iFrameResize();
+        $('#modal-ca-list').modal('show')
+    </script>
     <%@ include file="inc/mastery_bottom.jsp" %>
 </body>
 </html>

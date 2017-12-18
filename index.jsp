@@ -29,7 +29,7 @@
                 <div class="ui stackable two column grid">
                     <div class="column">
                         <div class="service quiz">
-                            <a href="quiz_ca_list.jsp">
+                            <a href="quiz_ca_report.jsp">
                                 <span>펌핑톡</span>
                             </a>
                             <div class="list-box">

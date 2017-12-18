@@ -9,7 +9,7 @@
         <div id="container">
             <div class="option-content">
                 <h2 class="hmap">세상에서 가장 알기쉬운 문학퀴즈</h2>
-                <div class="button-area">
+                <div class="button-area tc">
                     <a href="quiz_view_choice_result.jsp" class="ui yellow large button"><i class="checkmark icon"></i>퀴즈 제출</a>
                 </div>
             </div>
@@ -26,24 +26,28 @@
                             <input type="checkbox" name="01" tabindex="0" class="hidden" checked>
                             <label class="question num01">21세기의 문학도들이 보다 쉽게 문학에 다가설 수 있도록 하였다.</label>
                         </div>
+                        <span class="persent">3%</span>
                     </div>
                     <div class="field correct">
                         <div class="ui checkbox read-only">
                             <input type="checkbox" name="01" tabindex="0" class="hidden">
                             <label class="question num02">한 사회의 거울이며 현실의 반영물인 문학에 대한 논의가 가능해질 것이다.</label>
                         </div>
+                        <span class="persent">84%</span>
                     </div>
                     <div class="field">
                         <div class="ui checkbox read-only">
                             <input type="checkbox" name="01" tabindex="0" class="hidden">
                             <label class="question num03">한국 문학의 영역과 갈래가 확연히 구분되었다.</label>
                         </div>
+                        <span class="persent">10%</span>
                     </div>
                     <div class="field">
                         <div class="ui checkbox read-only">
                             <input type="checkbox" name="01" tabindex="0" class="hidden">
                             <label class="question num04">문학의 개념이 개인주의에서 사회주의로 바뀌었다.</label>
                         </div>
+                        <span class="persent">4%</span>
                     </div>
                     <div class="ui divider"></div>
                     <div class="field">

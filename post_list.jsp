@@ -12,22 +12,14 @@
                 <h2 class="hmap">세상에서 가장 알기쉬운 문학퀴즈에 대해 여러분의 의견은 어떤가요?</h2>
                 <div class="date"><span>박상혁</span><span>07-09-23 (15:24)</span></div>
                 <img class="ui centered big image mt40" src="http://weekly.donga.com/docs/magazine/weekly/2010/02/04/201002040500024/image/201002040500024_1.jpg">
-<!--
-                <div class="button-area">
-                    <a href="post_write.jsp" class="ui facebook large button"><i class="write icon"></i>글 등록</a>
-                </div>
--->
+            </div>
+            <div class="view-conent">
+                뇌와 신경과학과 관련한 도서들에 흥미를 갖게 되었다.다양한 심리학과 더불어 뇌와 신경과학의 함수관계를 알게 될 때마다 감정의 폭과 고저는 흥미롭기만 하다.뇌가 인체 사령부로 내면과 외부 세계에 대한 반응과 흡수,충격을 뇌에서 신호를 보내면 신경계는 다양한 기제의 감정을 보인다.뇌와 신경계와 관련한 뇌세포,뉴런세포,DNA서열 등이 암호로 되어 있고,감정의 기제는 학습과 경험,본능에 의해 결정되어진다.또한 뇌와 신경계의 관계 즉 상호작용을 알면 알수록 뇌신경과학에 대한 학습 효과도 고조된다.
             </div>
             <div class="ui two basic buttons">
                 <a href="#0" class="ui button"><i class="thumbs outline up icon"></i>2</a>
                 <a href="#0" class="ui button"><div class="ui star large rating ml10" data-rating="3" data-max-rating="5"></div></a>
             </div>
-<!--
-            <div class="ui icon fluid big input">
-                <input type="text" placeholder="Search...">
-                <i class="inverted circular search link icon"></i>
-            </div>
--->
             <div class="comment">
                 <h2>Comment<span>총 12개의 댓글이 있습니다.</span></h2>
                 <ul class="comment-write">

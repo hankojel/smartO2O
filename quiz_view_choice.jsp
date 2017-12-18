@@ -9,7 +9,7 @@
         <div id="container">
             <div class="option-content">
                 <h2 class="hmap">세상에서 가장 알기쉬운 문학퀴즈</h2>
-                <div class="button-area">
+                <div class="button-area tc">
                     <a href="quiz_view_choice_result.jsp" class="ui yellow large button"><i class="checkmark icon"></i>퀴즈 제출</a>
                 </div>
             </div>

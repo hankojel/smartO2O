@@ -9,7 +9,7 @@
         <div id="container">
             <div class="option-content">
                 <h2 class="hmap">세상에서 가장 알기쉬운 문학퀴즈</h2>
-                <div class="button-area">
+                <div class="button-area tc">
                     <a href="#0" class="ui yellow large button"><i class="checkmark icon"></i>퀴즈 제출</a>
                 </div>
             </div>
@@ -24,9 +24,13 @@
                 <div class="ui bottom attached segment">
                     <div class="checkImg">
                         <input id="imgChk_true" type="radio" name="imgChk" disabled checked>
-                        <label class="imgChk true correct" for="imgChk_true"></label>
+                        <label class="imgChk true correct" for="imgChk_true">
+                            <span class="persent">84%</span>
+                        </label>
                         <input id="imgChk_false" type="radio" name="imgChk" disabled>
-                        <label class="imgChk false" for="imgChk_false"></label>
+                        <label class="imgChk false" for="imgChk_false">
+                            <span class="persent">16%</span>
+                        </label>
                     </div>
                 </div>
             </div>
