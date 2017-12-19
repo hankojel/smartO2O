@@ -15,7 +15,7 @@
         </style>
         <script language="javascript">
         $(document).ready(function() {
-            var options = { videoId: 'dk9uNWPP7EA?list=PL7cdQfbJcOxP_Ii2ifE-8NXj_qP1Mzb7a', start: 0 };
+            var options = { videoId: 'dk9uNWPP7EA', start: 0, repeat: true };
             $('#wrap').tubular(options);
         });
         </script>

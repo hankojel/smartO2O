@@ -5,15 +5,14 @@
             <p><i class="notched circle loading icon"></i></p>
         </div>
         <div id="wrap">
-            <h5 class="pt0">퀴즈옵션 2/2</h5>
+            <h5 class="pt0">옵션 2/2</h5>
             <div class="ui form">
                 <div class="ui divider"></div>
                 <div class="fields">
                     <div class="three wide field"><label for="caLabel">유형</label></div>
                     <div class="thirteen wide field">
                         <select class="ui dropdown list-num" id="caLabel" name="ca_select" title="유형 리스트">
-                            <option value="퀴즈형">퀴즈형</option>
-                            <option value="설문형">설문형</option>
+                            <option value="결과형">결과형</option>
                             <option value="교수자페이스">교수자페이스</option>
                         </select>
                     </div>

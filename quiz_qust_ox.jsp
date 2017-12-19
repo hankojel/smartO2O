@@ -22,12 +22,22 @@
                     </div>
                 </div>
                 <div class="ui divider"></div>
-                <div class="fields">
-                    <div class="four wide field"><label>점수반영</label></div>
+                <div class="fields required">
+                    <div class="four wide field"><label>유형</label></div>
                     <div class="twelve wide field">
-                        <div class="ui toggle checkbox toggle-allow">
-                            <input type="checkbox" id="scoreLabel" tabindex="0" class="hidden" checked>
-                            <label for="scoreLabel">허용</label>
+                        <div class="inline fields mb0">
+                            <div class="field">
+                                <div class="ui radio checkbox">
+                                    <input type="radio" name="type">
+                                    <label>퀴즈형</label>
+                                </div>
+                            </div>
+                            <div class="field">
+                                <div class="ui radio checkbox">
+                                    <input type="radio" name="type">
+                                    <label>설문형</label>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>

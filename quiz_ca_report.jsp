@@ -40,6 +40,176 @@
                 </thead>
                 <tbody>
                     <tr>
+                        <td>15</td>
+                        <td>
+                            <div class="ui checkbox">
+                                <input type="checkbox">
+                            </div>
+                        </td>
+                        <td><a href="#0" class="link">세상에서 가장 알기쉬운 문학퀴즈</a></td>
+                        <td>문학의 이해</td>
+                        <td>2017-03-30</td>
+                        <td>
+                            <div class="ui basic buttons">
+                                <a href="#0" class="ui button"><i class="bar chart icon"></i>결과보기</a>
+                                <a href="#0" class="ui button"><i class="download icon"></i>엑셀저장</a>
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>14</td>
+                        <td>
+                            <div class="ui checkbox">
+                                <input type="checkbox">
+                            </div>
+                        </td>
+                        <td><a href="#0" class="link">기초 스페인어 문법 퀴즈</a></td>
+                        <td>문학의 이해</td>
+                        <td>2017-03-27</td>
+                        <td>
+                            <div class="ui basic buttons">
+                                <a href="#0" class="ui button"><i class="bar chart icon"></i>결과보기</a>
+                                <a href="#0" class="ui button"><i class="download icon"></i>엑셀저장</a>
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>13</td>
+                        <td>
+                            <div class="ui checkbox">
+                                <input type="checkbox">
+                            </div>
+                        </td>
+                        <td><a href="#0" class="link">Data Structures in C언어로 쉽게 풀어쓴 퀴즈</a></td>
+                        <td>문학의 이해</td>
+                        <td>2017-03-19</td>
+                        <td>
+                            <div class="ui basic buttons">
+                                <a href="#0" class="ui button"><i class="bar chart icon"></i>결과보기</a>
+                                <a href="#0" class="ui button"><i class="download icon"></i>엑셀저장</a>
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>12</td>
+                        <td>
+                            <div class="ui checkbox">
+                                <input type="checkbox">
+                            </div>
+                        </td>
+                        <td><a href="#0" class="link">한국 고대사부터 현대 근대사까지 재미있게 풀어보는 역사 퀴즈</a></td>
+                        <td>문학의 이해</td>
+                        <td>2017-03-15</td>
+                        <td>
+                            <div class="ui basic buttons">
+                                <a href="#0" class="ui button"><i class="bar chart icon"></i>결과보기</a>
+                                <a href="#0" class="ui button"><i class="download icon"></i>엑셀저장</a>
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>11</td>
+                        <td>
+                            <div class="ui checkbox">
+                                <input type="checkbox">
+                            </div>
+                        </td>
+                        <td><a href="#0" class="link">The diameter of Earth is 8,000 miles (12,875 km)?</a></td>
+                        <td>문학의 이해</td>
+                        <td>2017-03-03</td>
+                        <td>
+                            <div class="ui basic buttons">
+                                <a href="#0" class="ui button"><i class="bar chart icon"></i>결과보기</a>
+                                <a href="#0" class="ui button"><i class="download icon"></i>엑셀저장</a>
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>10</td>
+                        <td>
+                            <div class="ui checkbox">
+                                <input type="checkbox">
+                            </div>
+                        </td>
+                        <td><a href="#0" class="link">세상에서 가장 알기쉬운 문학퀴즈</a></td>
+                        <td>문학의 이해</td>
+                        <td>2017-03-30</td>
+                        <td>
+                            <div class="ui basic buttons">
+                                <a href="#0" class="ui button"><i class="bar chart icon"></i>결과보기</a>
+                                <a href="#0" class="ui button"><i class="download icon"></i>엑셀저장</a>
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>9</td>
+                        <td>
+                            <div class="ui checkbox">
+                                <input type="checkbox">
+                            </div>
+                        </td>
+                        <td><a href="#0" class="link">기초 스페인어 문법 퀴즈</a></td>
+                        <td>문학의 이해</td>
+                        <td>2017-03-27</td>
+                        <td>
+                            <div class="ui basic buttons">
+                                <a href="#0" class="ui button"><i class="bar chart icon"></i>결과보기</a>
+                                <a href="#0" class="ui button"><i class="download icon"></i>엑셀저장</a>
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>8</td>
+                        <td>
+                            <div class="ui checkbox">
+                                <input type="checkbox">
+                            </div>
+                        </td>
+                        <td><a href="#0" class="link">Data Structures in C언어로 쉽게 풀어쓴 퀴즈</a></td>
+                        <td>문학의 이해</td>
+                        <td>2017-03-19</td>
+                        <td>
+                            <div class="ui basic buttons">
+                                <a href="#0" class="ui button"><i class="bar chart icon"></i>결과보기</a>
+                                <a href="#0" class="ui button"><i class="download icon"></i>엑셀저장</a>
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>7</td>
+                        <td>
+                            <div class="ui checkbox">
+                                <input type="checkbox">
+                            </div>
+                        </td>
+                        <td><a href="#0" class="link">한국 고대사부터 현대 근대사까지 재미있게 풀어보는 역사 퀴즈</a></td>
+                        <td>문학의 이해</td>
+                        <td>2017-03-15</td>
+                        <td>
+                            <div class="ui basic buttons">
+                                <a href="#0" class="ui button"><i class="bar chart icon"></i>결과보기</a>
+                                <a href="#0" class="ui button"><i class="download icon"></i>엑셀저장</a>
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>6</td>
+                        <td>
+                            <div class="ui checkbox">
+                                <input type="checkbox">
+                            </div>
+                        </td>
+                        <td><a href="#0" class="link">The diameter of Earth is 8,000 miles (12,875 km)?</a></td>
+                        <td>문학의 이해</td>
+                        <td>2017-03-03</td>
+                        <td>
+                            <div class="ui basic buttons">
+                                <a href="#0" class="ui button"><i class="bar chart icon"></i>결과보기</a>
+                                <a href="#0" class="ui button"><i class="download icon"></i>엑셀저장</a>
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
                         <td>5</td>
                         <td>
                             <div class="ui checkbox">
@@ -126,9 +296,6 @@
                     </tr>
                 </tbody>
             </table>
-            <div class="wrap-more">
-                <a href="#0">더보기</a>
-            </div>
         </div>
     </div>
     <!-- 펌핑톡 추가 -->
