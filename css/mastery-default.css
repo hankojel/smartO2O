@@ -12,6 +12,7 @@ body {height: 100%;}
 #container-table .inner-box ul.profile {margin: 20px 0;}
 #container-table .inner-box ul.profile li {display: inline-block; color: #ccc;}
 #container-table .inner-box ul.profile li span {color:#E9967A;}
+#container-table .inner-box .talk-add {width: 260px; margin: 0; margin-bottom: 10px;}
 #container-table .inner-box .service {width: 70%; margin: 0 auto;}
 #container-table .inner-box .service > a {display: block;}
 #container-table .inner-box .service > a:before {display: block; width: 240px; height: 240px; margin: 0 auto; margin-bottom: 20px; content: ''; border: 3px solid #fff; border-radius: 100%;}
@@ -119,7 +120,7 @@ ul.result-table li span {position: absolute; top: 5px; left: 5px; font-family: '
 
 .view-conent {margin: 20px 0; font-size: 16px;}
 
-footer {width: 100%; margin-top: -90px; padding: 20px 2%; background: #f1f1f1;}
+footer {width: 100%; margin-top: -90px; padding: 10px 2%; background: #f1f1f1;}
 footer:after {display:block; clear:both; content:''}
 footer .foot-link {background:#d5e0e6;}
 footer .foot-link ul {}
@@ -197,8 +198,8 @@ footer .inner-wrap .expand-link .chosen-single {color:#ccc !important; backgroun
 @media all and (max-width:480px){
     #container-table .inner-box ul.profile {margin: 10px 0;}
     #container-table .inner-box .service {width: 40%;}
-    #container-table .inner-box .service > a:before {width: 120px; height: 120px; transition: all .3s;}
-    #container-table .inner-box .service > a > span {font-size: 18px;}
+    #container-table .inner-box .service > a:before {width: 110px; height: 110px; transition: all .3s;}
+    #container-table .inner-box .service > a > span {font-size: 16px;}
     h2.hmap {display: block; margin-bottom: 10px; font-size: 18px; text-align: center;}
     .fold-list-box .header a {font-size: 14px;}
     .fold-list-box .header a em {vertical-align: inherit;}
