@@ -15,6 +15,22 @@
                     <a href="#0" class="ui olive large button">엑셀 다운</a>
                 </div>
             </div>
+            <div class="ui form">
+                <div class="inline fields">
+                    <div class="field">
+                        <div class="ui toggle checkbox">
+                            <label>이름 보여주기</label>
+                            <input type="checkbox" name="name">
+                        </div>
+                    </div>
+                    <div class="field">
+                        <div class="ui toggle checkbox">
+                            <label>답안 보여주기</label>
+                            <input type="checkbox" name="answer">
+                        </div>
+                    </div>
+                </div>
+            </div>
             <div class="ui icon fluid big input">
                 <input type="text" placeholder="응시자를 입력하세요">
                 <i class="inverted circular search link icon"></i>
