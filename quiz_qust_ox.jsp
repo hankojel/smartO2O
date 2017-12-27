@@ -14,7 +14,7 @@
             </div>
             <form class="ui form mt20">
                 <div class="fields required">
-                    <div class="four wide field"><label for="folderLabel">퀴즈명</label></div>
+                    <div class="four wide field"><label for="folderLabel">톡 리스트</label></div>
                     <div class="twelve wide field">
                         <div class="ui input">
                             <input type="text" id="folderLabel" value="세상에서 가장 알기쉬운 문학퀴즈">
@@ -29,13 +29,13 @@
                             <div class="field">
                                 <div class="ui radio checkbox">
                                     <input type="radio" name="type">
-                                    <label>퀴즈형</label>
+                                    <label>채점형</label>
                                 </div>
                             </div>
                             <div class="field">
                                 <div class="ui radio checkbox">
                                     <input type="radio" name="type">
-                                    <label>설문형</label>
+                                    <label>미채점형</label>
                                 </div>
                             </div>
                         </div>

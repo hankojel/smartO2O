@@ -32,7 +32,7 @@
                                 <input type="checkbox">
                             </div>
                         </th>
-                        <th scope="col">퀴즈명</th>
+                        <th scope="col">톡 리스트</th>
                         <th scope="col" data-breakpoints="xs sm">과목명</th>
                         <th scope="col" data-breakpoints="xs sm">날짜</th>
                         <th scope="col" data-breakpoints="xs sm md" data-sortable="false">결과</th>

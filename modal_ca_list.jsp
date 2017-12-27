@@ -45,7 +45,7 @@
                     .table {font-size: 13px;}
                 }
             </style>
-            <h5 class="pt0">퀴즈선택 1/2</h5>
+            <h5 class="pt0">톡 선택 1/2</h5>
             <div class="ui icon fluid big input">
                 <input type="text" placeholder="Search...">
                 <i class="inverted circular search link icon"></i>
@@ -53,7 +53,7 @@
             <table class="table mt10" data-sorting="true" data-paging="true" data-paging-size="10" data-empty="등록된 퀴즈가 없습니다.">
                 <thead>
                     <tr>
-                        <th scope="col">퀴즈명</th>
+                        <th scope="col">톡 리스트</th>
                         <th scope="col" data-breakpoints="xs">날짜</th>
                     </tr>
                 </thead>
@@ -63,7 +63,7 @@
                             <div class="start-quiz-radio-outer">
                                 <div class="start-quiz-radio-inner"></div>
                             </div>
-                            <span class="ui purple mini label mr5">퀴즈</span>세상에서 가장 알기쉬운 문학퀴즈
+                            <span class="ui purple mini label mr5">채점형</span>세상에서 가장 알기쉬운 문학퀴즈
                         </td>
                         <td>2017-03-30</td>
                     </tr>
@@ -72,7 +72,7 @@
                             <div class="start-quiz-radio-outer">
                                 <div class="start-quiz-radio-inner"></div>
                             </div>
-                            <span class="ui purple mini label mr5">퀴즈</span>기초 스페인어 문법 퀴즈
+                            <span class="ui purple mini label mr5">채점형</span>기초 스페인어 문법 퀴즈
                         </td>
                         <td>2017-03-27</td>
                     </tr>
@@ -81,7 +81,7 @@
                             <div class="start-quiz-radio-outer">
                                 <div class="start-quiz-radio-inner"></div>
                             </div>
-                            <span class="ui purple mini label mr5">퀴즈</span>Data Structures in C언어로 쉽게 풀어쓴 퀴즈
+                            <span class="ui purple mini label mr5">채점형</span>Data Structures in C언어로 쉽게 풀어쓴 퀴즈
                         </td>
                         <td>2017-03-19</td>
                     </tr>
@@ -90,7 +90,7 @@
                             <div class="start-quiz-radio-outer">
                                 <div class="start-quiz-radio-inner"></div>
                             </div>
-                            <span class="ui violet mini label mr5">설문</span>한국 고대사부터 현대 근대사까지 재미있게 풀어보는 역사 퀴즈
+                            한국 고대사부터 현대 근대사까지 재미있게 풀어보는 역사 퀴즈
                         </td>
                         <td>2017-03-15</td>
                     </tr>
@@ -99,7 +99,7 @@
                             <div class="start-quiz-radio-outer">
                                 <div class="start-quiz-radio-inner"></div>
                             </div>
-                            <span class="ui purple mini label mr5">퀴즈</span>The diameter of Earth is 8,000 miles (12,875 km)?
+                            <span class="ui purple mini label mr5">채점형</span>The diameter of Earth is 8,000 miles (12,875 km)?
                         </td>
                         <td>2017-03-03</td>
                     </tr>
@@ -108,7 +108,7 @@
                             <div class="start-quiz-radio-outer">
                                 <div class="start-quiz-radio-inner"></div>
                             </div>
-                            <span class="ui violet mini label mr5">설문</span>세상에서 가장 알기쉬운 문학퀴즈
+                            세상에서 가장 알기쉬운 문학퀴즈
                         </td>
                         <td>2017-03-30</td>
                     </tr>
@@ -117,7 +117,7 @@
                             <div class="start-quiz-radio-outer">
                                 <div class="start-quiz-radio-inner"></div>
                             </div>
-                            <span class="ui violet mini label mr5">설문</span>기초 스페인어 문법 퀴즈
+                            기초 스페인어 문법 퀴즈
                         </td>
                         <td>2017-03-27</td>
                     </tr>
@@ -126,7 +126,7 @@
                             <div class="start-quiz-radio-outer">
                                 <div class="start-quiz-radio-inner"></div>
                             </div>
-                            <span class="ui violet mini label mr5">설문</span>Data Structures in C언어로 쉽게 풀어쓴 퀴즈
+                            Data Structures in C언어로 쉽게 풀어쓴 퀴즈
                         </td>
                         <td>2017-03-19</td>
                     </tr>
@@ -135,7 +135,7 @@
                             <div class="start-quiz-radio-outer">
                                 <div class="start-quiz-radio-inner"></div>
                             </div>
-                            <span class="ui purple mini label mr5">퀴즈</span>한국 고대사부터 현대 근대사까지 재미있게 풀어보는 역사 퀴즈
+                            한국 고대사부터 현대 근대사까지 재미있게 풀어보는 역사 퀴즈
                         </td>
                         <td>2017-03-15</td>
                     </tr>
@@ -144,7 +144,7 @@
                             <div class="start-quiz-radio-outer">
                                 <div class="start-quiz-radio-inner"></div>
                             </div>
-                            <span class="ui violet mini label mr5">설문</span>The diameter of Earth is 8,000 miles (12,875 km)?
+                            The diameter of Earth is 8,000 miles (12,875 km)?
                         </td>
                         <td>2017-03-03</td>
                     </tr>
@@ -153,7 +153,7 @@
                             <div class="start-quiz-radio-outer">
                                 <div class="start-quiz-radio-inner"></div>
                             </div>
-                            <span class="ui purple mini label mr5">퀴즈</span>세상에서 가장 알기쉬운 문학퀴즈
+                            <span class="ui purple mini label mr5">채점형</span>세상에서 가장 알기쉬운 문학퀴즈
                         </td>
                         <td>2017-03-30</td>
                     </tr>
@@ -162,7 +162,7 @@
                             <div class="start-quiz-radio-outer">
                                 <div class="start-quiz-radio-inner"></div>
                             </div>
-                            <span class="ui purple mini label mr5">퀴즈</span>기초 스페인어 문법 퀴즈
+                            <span class="ui purple mini label mr5">채점형</span>기초 스페인어 문법 퀴즈
                         </td>
                         <td>2017-03-27</td>
                     </tr>
@@ -171,7 +171,7 @@
                             <div class="start-quiz-radio-outer">
                                 <div class="start-quiz-radio-inner"></div>
                             </div>
-                            <span class="ui violet mini label mr5">설문</span>Data Structures in C언어로 쉽게 풀어쓴 퀴즈
+                            Data Structures in C언어로 쉽게 풀어쓴 퀴즈
                         </td>
                         <td>2017-03-19</td>
                     </tr>
@@ -180,7 +180,7 @@
                             <div class="start-quiz-radio-outer">
                                 <div class="start-quiz-radio-inner"></div>
                             </div>
-                            <span class="ui purple mini label mr5">퀴즈</span>한국 고대사부터 현대 근대사까지 재미있게 풀어보는 역사 퀴즈
+                            <span class="ui purple mini label mr5">채점형</span>한국 고대사부터 현대 근대사까지 재미있게 풀어보는 역사 퀴즈
                         </td>
                         <td>2017-03-15</td>
                     </tr>
@@ -189,7 +189,7 @@
                             <div class="start-quiz-radio-outer">
                                 <div class="start-quiz-radio-inner"></div>
                             </div>
-                            <span class="ui purple mini label mr5">퀴즈</span>The diameter of Earth is 8,000 miles (12,875 km)?
+                            <span class="ui purple mini label mr5">채점형</span>The diameter of Earth is 8,000 miles (12,875 km)?
                         </td>
                         <td>2017-03-03</td>
                     </tr>

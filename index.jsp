@@ -26,7 +26,7 @@
                     <li>홍길동 (hongkd98) </li>
                     <li><i class="wait icon"></i><span>13:07:34에 접속 하였습니다.</span></li>
                 </ul>
-                <a href="" class="ui yellow large button talk-add">톡추가</a>
+                <a href="" class="ui yellow large button talk-add">톡 추가</a>
                 <div class="ui stackable two column grid">
                     <div class="column">
                         <div class="service quiz">
