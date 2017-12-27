@@ -15,6 +15,16 @@
             </div>
             <div class="ui horizontal divider item-num">2/5</div>
             <div class="ui form">
+                <div class="inline fields">
+                    <div class="field">
+                        <label>총 참가자</label>10/20명
+                    </div>
+                    <div class="field">
+                        <a href="#0" class="ui red button">답안 보여주기</a>
+                    </div>
+                </div>
+            </div>
+            <div class="ui form">
                 <img class="ui centered big image" src="https://www.yamanaka-spa.or.jp/global/kor/images/history_01_main.jpg">
                 <div class="ui attached message">
                     <div class="header">다음은 일본 역사서에 나오는 왜와 관련된 내용들 중 일부입니다.<br />교토에서 황실의 경비, 쇼군 저택 경비, 쇼군에 대한 노역, 전시 군역 등을 담당하였기 때문에, 부역을 담당할 만큼의 영지와 재력이 있어야만 이유를 간략히 서술하시오.</div>

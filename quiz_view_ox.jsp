@@ -15,6 +15,16 @@
             </div>
             <div class="ui horizontal divider item-num">3/5</div>
             <div class="ui form">
+                <div class="inline fields">
+                    <div class="field">
+                        <label>총 참가자</label>10/20명
+                    </div>
+                    <div class="field">
+                        <a href="#0" class="ui red button">답안 보여주기</a>
+                    </div>
+                </div>
+            </div>
+            <div class="ui form">
                 <img class="ui centered big image" src="http://cfs1.tistory.com/upload_control/download.blog?fhandle=YmxvZzI5MDkzQGZzMS50aXN0b3J5LmNvbTovYXR0YWNoLzAvOTAwMDAwMDAwMDA1LmpwZw%3D%3D">
                 <div class="ui attached message">
                     <div class="header">지도의 나가사키-후쿠오카-키타규슈를 잇는 지역이 일본초기 문화가 탄생한 지역이다.</div>

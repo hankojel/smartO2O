@@ -15,6 +15,16 @@
             </div>
             <div class="ui horizontal divider item-num">1/5</div>
             <div class="ui form">
+                <div class="inline fields">
+                    <div class="field">
+                        <label>총 참가자</label>10/20명
+                    </div>
+                    <div class="field">
+                        <a href="#0" class="ui red button">답안 보여주기</a>
+                    </div>
+                </div>
+            </div>
+            <div class="ui form">
                 <div class="ui attached message">
                     <div class="header">문학이 현대사회에서 미치는 영향을 고르시오.</div>
                 </div>
