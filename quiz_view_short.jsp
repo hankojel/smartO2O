@@ -17,7 +17,7 @@
             <div class="ui form">
                 <div class="inline fields">
                     <div class="field">
-                        <label>총 참가자</label>10/20명
+                        <label class="mr10">총 참가자</label>10/20명
                     </div>
                     <div class="field">
                         <a href="#0" class="ui red button">답안 보여주기</a>

@@ -17,7 +17,7 @@
             <div class="ui form">
                 <div class="inline fields">
                     <div class="field">
-                        <label>총 참가자</label>10/20명
+                        <label class="mr10">총 참가자</label>10/20명
                     </div>
                     <div class="field">
                         <a href="#0" class="ui red button">답안 보여주기</a>
@@ -35,11 +35,11 @@
                     <div class="checkImg">
                         <input id="imgChk_true" type="radio" name="imgChk" disabled checked>
                         <label class="imgChk true correct" for="imgChk_true">
-                            <span class="persent">84%</span>
+                            <span class="persent"><b class="mr5">15명</b>(84%)</span>
                         </label>
                         <input id="imgChk_false" type="radio" name="imgChk" disabled>
                         <label class="imgChk false" for="imgChk_false">
-                            <span class="persent">16%</span>
+                            <span class="persent"><b class="mr5">10명</b>(16%)</span>
                         </label>
                     </div>
                 </div>

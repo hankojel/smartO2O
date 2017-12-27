@@ -71,6 +71,7 @@ h2.hmap {display: inline-block; font-size:28px; color:#333;}
 #container .footable.table,
 #container .ui.form,
 #container .ui.checkbox {font-size: 16px;}
+#container .selection-row {width: calc(100% - 25%);}
 .footable.table > thead > tr > th,
 .footable.table > tbody > tr > td,
 .footable.table > tfoot > tr > td {padding: 14px 8px;}
@@ -88,9 +89,9 @@ ul.result-table li span {position: absolute; top: 5px; left: 5px; font-family: '
 .prof-score .head {margin-bottom: 10px; font-size: 18px; color: #333;}
 .prof-score ul.result-table li {padding: 10px 0; font-size: 18px; color: #fff;}
 .prof-score ul.result-table li.correct {background: #099abc;}
-.ui.form .field span.persent {float: right;}
+.ui.form .field span.persent {float: right; padding: 7px 0;}
 .ui.form .field.correct span.persent {color: #FF5733;}
-.checkImg .imgChk span.persent {position: absolute; left: 50%; bottom: -20px; display: inline-block; width: 60px; margin-left: -30px;}
+.checkImg .imgChk span.persent {position: absolute; left: 50%; bottom: -20px; display: inline-block; width: 100px; margin-left: -50px;}
 .checkImg .imgChk.correct span.persent {color: #FF5733;}
 
 .name-date {padding-bottom: 10px;}
