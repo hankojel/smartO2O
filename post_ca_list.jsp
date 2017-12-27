@@ -70,7 +70,7 @@
             </div>
         </div>
     </div>
-    <!-- 포스트잇 추가 -->
+    <!-- 포스팅잇 추가 -->
     <div class="modal fade" id="modal-post-add" tabindex="-1" role="dialog" aria-labelledby="모달영역" aria-hidden="true">
         <div class="modal-dialog" role="document">
             <div class="modal-content">
@@ -78,7 +78,7 @@
                     <button type="button" class="close" data-dismiss="modal" aria-label="닫기">
                         <span aria-hidden="true">&times;</span>
                     </button>
-                    <h4 class="modal-title">포스트잇 추가</h4>
+                    <h4 class="modal-title">포스팅잇 추가</h4>
                 </div>
                 <div class="modal-body">
                     <iframe src="modal_post_add.jsp" width="100%" scrolling="no"></iframe>

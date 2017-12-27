@@ -6,7 +6,7 @@
         <ul class="ca_menu">
             <li><a href="./quiz_ca_report.jsp">펌핑톡</a></li>
             <li><a href="./quiz_ca_list.jsp">퀴즈</a></li>
-            <li><a href="./post_list.jsp">포스트잇</a></li>
+            <li><a href="./post_list.jsp">포스팅잇</a></li>
         </ul>
     </div>
 </header>

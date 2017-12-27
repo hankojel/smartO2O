@@ -41,7 +41,7 @@
                     <div class="column">
                         <div class="service post">
                             <a href="#0">
-                                <span>포스트잇</span>
+                                <span>포스팅잇</span>
                             </a>
                             <div class="list-box">
                                 <a class="ui pointing label">고전문학과 현대사회가 큰 차이점을 알고 싶습니다.<div class="floating ui small red label">+3</div></a>
