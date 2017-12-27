@@ -183,11 +183,13 @@
                     </div>
                 </div>
                 <div class="ui divider"></div>
+<!--
                 <div class="field">
                     <label for="expLabel">사전설명</label>
                     <textarea rows="4" id="expLabel"></textarea>
                 </div>
                 <div class="ui divider"></div>
+-->
                 <div class="field">
                     <label for="answerLabel">정답해설</label>
                     <textarea rows="4" id="answerLabel"></textarea>

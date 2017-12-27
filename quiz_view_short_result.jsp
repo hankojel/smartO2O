@@ -25,10 +25,12 @@
                     <textarea rows="4">영주가 서민의시을 자녀야 한다</textarea>
                     <a class="ui pointing red basic label">영주의 몰락</a><a class="ui pointing red basic label">혈세 낭비</a><a class="ui pointing red basic label">서민의식</a>
                 </div>
+<!--
                 <div class="field">
                     <label>사전설명</label>
                     <div class="ui info message">유력농민들은 명목상으로 귀족들에게 개척 토지를 기부하는 형식으로 국가의 간섭을 피하려고 했다.</div>
                 </div>
+-->
             </div>
             <div class="wrap_btn">
                 <a class="ui basic button fl"><i class="long arrow left icon"></i>이전문항</a>

@@ -45,10 +45,12 @@
                         </div>
                     </div>
                 </div>
+<!--
                 <div class="field">
                     <label>사전설명</label>
                     <div class="ui info message">18세기 낭만주의의 태동과 철학자 칸트에 의해 제기된 것으로 인간의 순수 이성으로는 표현이 불가능한 것이 있다는 전제하에, 문학은 인간의 유희적 본능에서 시작되었다는 것이다.</div>
                 </div>
+-->
             </div>
             <div class="wrap_btn">
                 <a class="ui basic button fl"><i class="long arrow left icon"></i>이전문항</a>

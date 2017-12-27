@@ -94,11 +94,13 @@
                     </div>
                 </div>
                 <div class="ui divider"></div>
+<!--
                 <div class="field">
                     <label>사전설명</label>
                     <textarea rows="4"></textarea>
                 </div>
                 <div class="ui divider"></div>
+-->
                 <div class="field">
                     <label>정답해설</label>
                     <textarea rows="4"></textarea>

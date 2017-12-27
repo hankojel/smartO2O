@@ -22,10 +22,12 @@
                 <div class="ui bottom attached segment">
                     <textarea rows="4"></textarea>
                 </div>
+<!--
                 <div class="field">
                     <label>사전설명</label>
                     <div class="ui info message">유력농민들은 명목상으로 귀족들에게 개척 토지를 기부하는 형식으로 국가의 간섭을 피하려고 했다.</div>
                 </div>
+-->
             </div>
             <div class="wrap_btn">
                 <a class="ui basic button fl"><i class="long arrow left icon"></i>이전문항</a>
