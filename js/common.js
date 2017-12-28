@@ -85,6 +85,7 @@ $(function(){
         $('input:text', $(e.target).parent()).val(name);
     });
 
+
 	$(window).resize(function(event){
 		controller();
 	});
