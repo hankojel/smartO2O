@@ -80,6 +80,16 @@
                 </div>
                 <div class="ui divider"></div>
                 <div class="fields">
+                    <div class="three wide field"><label for="subjectLabel">평가표시</label></div>
+                    <div class="thirteen wide field">
+                        <div class="ui toggle checkbox toggle-open">
+                            <input type="checkbox" id="evalLabel" tabindex="0" class="hidden" checked>
+                            <label for="evalLabel">공개</label>
+                        </div>
+                    </div>
+                </div>
+                <div class="ui divider"></div>
+                <div class="fields">
                     <div class="three wide field"><label for="dataImgLabel">첨부 이미지</label></div>
                     <div class="thirteen wide field">
                         <div class="ui action input simple-uploader">

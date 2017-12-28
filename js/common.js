@@ -74,6 +74,16 @@ $(function(){
         }
     });
 
+    $('.toggle-open')
+    .checkbox({
+        onChecked: function() {
+            $("label[for='"+$(this).attr("id")+"']").text('공개');
+        },
+        onUnchecked: function() {
+            $("label[for='"+$(this).attr("id")+"']").text('비공개');
+        }
+    });
+
 
     /********** semantic simple-uploader **********/
     $('input:text, .ui.button', '.simple-uploader').on('click', function(e) {

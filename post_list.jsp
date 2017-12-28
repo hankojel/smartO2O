@@ -18,13 +18,23 @@
             </div>
             <div class="ui two basic buttons">
                 <a href="#0" class="ui button"><i class="thumbs outline up icon"></i>2</a>
-                <a href="#0" class="ui button"><div class="ui star large rating ml10" data-rating="3" data-max-rating="5"></div></a>
+                <a href="#0" class="ui button"><div class="ui star large rating" data-rating="3" data-max-rating="5"></div></a>
             </div>
             <div class="comment">
                 <h2>Comment<span>총 12개의 댓글이 있습니다.</span></h2>
                 <ul class="comment-write">
                     <li><textarea rows="3" class="wmax" placeholder="댓글을 입력하세요"></textarea></li>
-                    <li><a href="#" class="ui blue button">등록</a></li>
+                    <li>
+                        <div class="ui form fl">
+                            <div class="inline fields">
+                                <label>평가하기</label>
+                                <div class="field">
+                                    <div class="ui star large rating" data-rating="0" data-max-rating="5"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <a href="#" class="ui blue button">등록</a>
+                    </li>
                 </ul>
                 <ul class="cbp_tmtimeline">
                     <li>
