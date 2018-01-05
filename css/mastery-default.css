@@ -124,7 +124,7 @@ ul.result-table li span {position: absolute; top: 5px; left: 5px; font-family: '
 
 .view-conent {margin: 20px 0; font-size: 16px;}
 
-footer {width: 100%; margin-top: -90px; padding: 10px 2%; background: #f1f1f1;}
+footer {width: 100%; margin-top: -70px; padding: 10px 2%; background: #f1f1f1;}
 footer:after {display:block; clear:both; content:''}
 footer .foot-link {background:#d5e0e6;}
 footer .foot-link ul {}
