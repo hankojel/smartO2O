@@ -813,7 +813,7 @@ blockquote p.author small {display: inline-block;}
 /* test-example number */
 .ui.checkbox label.question {padding: 7px 0 7px 40px;}
 .ui.checkbox label.question:before {width: 32px; height: 32px; text-align: center; line-height: 28px; border-radius: 100%;}
-.ui.checkbox input:checked ~ label.question:after {width: 32px; height: 32px; line-height: 32px; content: inherit; color: #fff !important; border-radius: 100%; background: #333; content: "\e800";}
+.ui.checkbox input:checked ~ label.question:after {width: 32px; height: 32px; line-height: 32px; color: #fff !important; border-radius: 100%; background: #333; content: "\f00c"; font-family: "Icons";}
 .ui.checkbox label.question.num01:before {content: 'A';}
 .ui.checkbox label.question.num02:before {content: 'B';}
 .ui.checkbox label.question.num03:before {content: 'C';}
