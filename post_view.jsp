@@ -21,8 +21,9 @@
                 <p class="name-date"><span>장민석</span><code>2017-09-29 (10:24)</code></p>
                 <a href="post_list.jsp">뇌와 신경과학과 관련한 도서들에 흥미를 갖게 되었다.다양한 심리학과 더불어 뇌와 신경과학의 함수관계를 알게 될 때마다 감정의 폭과 고저는 흥미롭기만 하다.뇌가 인체 사령부로 내면과 외부 세계에 대한 반응과 흡수,충격을 뇌에서 신호를 보내면 신경계는 다양한 기제의 감정을 보인다.뇌와 신경계와 관련한 뇌세포,뉴런세포,DNA서열 등이 암호로 되어 있고,감정의 기제는 학습과 경험,본능에 의해 결정되어진다.또한 뇌와 신경계의 관계 즉 상호작용을 알면 알수록 뇌신경과학에 대한 학습 효과도 고조된다.</a>
                 <div class="ui basic buttons mt20 fr">
-                    <a href="#0" class="ui button"><i class="thumbs outline up icon"></i>2</a>
+                    <a href="#0" class="ui button"><i class="thumbs up icon"></i>28</a>
                     <a href="#0" class="ui button"><div class="ui star large rating ml10" data-rating="3" data-max-rating="5"></div></a>
+                    <span class="ui button">점수 : 5점</span>
                 </div>
                 <div class="clearFix"></div>
             </div>
@@ -30,8 +31,9 @@
                 <p class="name-date"><span>임현석</span><code>2017-09-29 (10:13)</code></p>
                 신경과학자는 기능을 상실하는 방법, 그리고 바꾸일 수 있는 어떻게 방법 형성하는 어떻게 작용하는지 신경계의 모든 어떻게 구축되는지 이해하기 위하여 성분을 탐구합니다. 신경계는 신경이 도달할 수 있는 신호를 그들의 끝에 신경원을 좌우하고, 근육 및 선 활동 먼 신체 부위에게 중계하기 위하여 조준하는 축삭에게 불린 긴 필라멘트를 계획하는 전문화한 시냅스 연결을 통해서 서로와 그밖 세포와 연락하는 상호 연락한 신경의 집합입니다.
                 <div class="ui basic buttons mt20 fr">
-                    <a href="#0" class="ui button"><i class="thumbs outline up icon"></i>2</a>
-                    <a href="#0" class="ui button"><div class="ui star large rating ml10" data-rating="1" data-max-rating="5"></div></a>
+                    <a href="#0" class="ui button"><i class="thumbs up icon"></i>20</a>
+                    <a href="#0" class="ui button"><div class="ui star large rating ml10" data-rating="4" data-max-rating="5"></div></a>
+                    <span class="ui button">점수 : 4점</span>
                 </div>
                 <div class="clearFix"></div>
             </div>
@@ -39,8 +41,9 @@
                 <p class="name-date"><span>윤희진</span><code>2017-09-29 (10:01)</code></p>
                 신경과학자는 필수적으로 일반적으로 신경과학 관련 필드에 있는 박사 학위를 소유하는 기초 과학 연구원입니다. 그(것)들은 지점 박사 연구에서 그 후에 일하거나 의사가 되고 나중에 신경과학을 전문화하기 위하여 계속할 수 있습니다.
                 <div class="ui basic buttons mt20 fr">
-                    <a href="#0" class="ui button"><i class="thumbs outline up icon"></i>2</a>
-                    <a href="#0" class="ui button"><div class="ui star large rating ml10" data-rating="0" data-max-rating="5"></div></a>
+                    <a href="#0" class="ui button"><i class="thumbs up icon"></i>33</a>
+                    <a href="#0" class="ui button"><div class="ui star large rating ml10" data-rating="5" data-max-rating="5"></div></a>
+                    <span class="ui button">점수 : 5점</span>
                 </div>
                 <div class="clearFix"></div>
             </div>
@@ -49,8 +52,9 @@
                 <p class="name-date"><span>박소희</span><code>2017-09-28 (15:24)</code></p>
                 <a href="post_list.jsp">본래에는 항공기만을 다루는 항공 공학이라는 용어가 있었지만, 점차 활동 영역이 우주까지 확장되면서 오늘날에는 우주 항공 기술이라는 용어를 사용한다.</a>
                 <div class="ui basic buttons mt20 fr">
-                    <a href="#0" class="ui button"><i class="thumbs outline up icon"></i>2</a>
-                    <a href="#0" class="ui button"><div class="ui star large rating ml10" data-rating="1" data-max-rating="5"></div></a>
+                    <a href="#0" class="ui button"><i class="thumbs up icon"></i>38</a>
+                    <a href="#0" class="ui button"><div class="ui star large rating ml10" data-rating="5" data-max-rating="5"></div></a>
+                    <span class="ui button">점수 : 4점</span>
                 </div>
                 <div class="clearFix"></div>
             </div>
@@ -58,8 +62,9 @@
                 <p class="name-date"><span>고현아</span><code>2017-09-28 (14:13)</code></p>
                 <a href="post_list.jsp">위성체 분야, 발사체 분야, 위성이용 및 우주 과학 분야로 나뉘는 미래 산업을 이끌고갈 첨단 기술의 집합체</a>
                 <div class="ui basic buttons mt20 fr">
-                    <a href="#0" class="ui button"><i class="thumbs outline up icon"></i>2</a>
-                    <a href="#0" class="ui button"><div class="ui star large rating ml10" data-rating="1" data-max-rating="5"></div></a>
+                    <a href="#0" class="ui button"><i class="thumbs up icon"></i>20</a>
+                    <a href="#0" class="ui button"><div class="ui star large rating ml10" data-rating="3" data-max-rating="5"></div></a>
+                    <span class="ui button">점수 : 3점</span>
                 </div>
                 <div class="clearFix"></div>
             </div>
