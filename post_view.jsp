@@ -12,6 +12,7 @@
                 <h2 class="hmap">세상에서 가장 알기쉬운 문학퀴즈에 대해 여러분의 의견은 어떤가요?</h2>
                 <div class="date"><span>박상혁</span><span>2017-09-23 ~ 2017-09-27</span></div>
                 <div class="button-area tc">
+                    <a href="#0" class="ui orange large button">수정</a>
                     <a href="#0" class="ui facebook large button" data-toggle="modal" data-target="#modal-post-write">의견등록</a>
                 </div>
             </div>
