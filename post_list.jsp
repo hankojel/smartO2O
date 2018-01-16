@@ -41,60 +41,96 @@
                         <div class="cbp_tmicon"></div>
                         <div class="cbp_box">
                             <div class="ui horizontal divider">2017. 09. 29</div>
-                            <a href="#0" class="cbp_tmlabel">
+                            <div class="cbp_tmlabel">
                                 <p class="title">문학 퀴즈중 1부터 20까지 감춰진 번호에 대한 문제</p>
                                 <ul class="info">
                                     <li>김상식<div class="ui star large rating ml10" data-rating="4" data-max-rating="5"></div></li>
                                     <li><i class="thumbs up icon"></i>30</li>
+                                    <li>
+                                        <div class="ui basic small buttons" style="vertical-align: inherit;">
+                                            <a href="#0" class="ui orange button">수정</a>
+                                            <a href="#0" class="ui red button">삭제</a>
+                                        </div>
+                                    </li>
                                 </ul>
-                            </a>
-                            <a href="#0" class="cbp_tmlabel">
+                            </div>
+                            <div class="cbp_tmlabel">
                                 <p class="title">언제나 대부분 그렇듯이 상상한 것보다 실제는 싱거웠다. 하지만 재밌었다^^</p>
                                 <ul class="info">
                                     <li>임현정<div class="ui star large rating ml10" data-rating="5" data-max-rating="5"></div></li>
                                     <li><i class="thumbs up icon"></i>38</li>
+                                    <li>
+                                        <div class="ui basic small buttons" style="vertical-align: inherit;">
+                                            <a href="#0" class="ui orange button">수정</a>
+                                            <a href="#0" class="ui red button">삭제</a>
+                                        </div>
+                                    </li>
                                 </ul>
-                            </a>
-                            <a href="#0" class="cbp_tmlabel">
+                            </div>
+                            <div class="cbp_tmlabel">
                                 <p class="title">마지막이라는 말이 주는 알싸한 슬픔, 그 목메이는 그리움.</p>
                                 <ul class="info">
                                     <li>윤희선<div class="ui star large rating ml10" data-rating="5" data-max-rating="5"></div></li>
                                     <li><i class="thumbs up icon"></i>23</li>
+                                    <li>
+                                        <div class="ui basic small buttons" style="vertical-align: inherit;">
+                                            <a href="#0" class="ui orange button">수정</a>
+                                            <a href="#0" class="ui red button">삭제</a>
+                                        </div>
+                                    </li>
                                 </ul>
-                            </a>
+                            </div>
                         </div>
                     </li>
                     <li>
                         <div class="cbp_tmicon"></div>
                         <div class="cbp_box">
                             <div class="ui horizontal divider">2017. 09. 28</div>
-                            <a href="#0" class="cbp_tmlabel">
+                            <div class="cbp_tmlabel">
                                 <p class="title">살아있는 경제용어로 강해지는 경제두뇌!</p>
                                 <ul class="info">
                                     <li>박윤식<div class="ui star large rating ml10" data-rating="5" data-max-rating="5"></div></li>
                                     <li><i class="thumbs up icon"></i>27</li>
+                                    <li>
+                                        <div class="ui basic small buttons" style="vertical-align: inherit;">
+                                            <a href="#0" class="ui orange button">수정</a>
+                                            <a href="#0" class="ui red button">삭제</a>
+                                        </div>
+                                    </li>
                                 </ul>
-                            </a>
+                            </div>
                         </div>
                     </li>
                     <li>
                         <div class="cbp_tmicon"></div>
                         <div class="cbp_box">
                             <div class="ui horizontal divider">2017. 09. 26</div>
-                            <a href="#0" class="cbp_tmlabel">
+                            <div class="cbp_tmlabel">
                                 <p class="title">포스트 잡스, 잡스가 멈춘 곳에서 길을 차다</p>
                                 <ul class="info">
                                     <li>강석훈<div class="ui star large rating ml10" data-rating="4" data-max-rating="5"></div></li>
                                     <li><i class="thumbs up icon"></i>23</li>
+                                    <li>
+                                        <div class="ui basic small buttons" style="vertical-align: inherit;">
+                                            <a href="#0" class="ui orange button">수정</a>
+                                            <a href="#0" class="ui red button">삭제</a>
+                                        </div>
+                                    </li>
                                 </ul>
-                            </a>
-                            <a href="#0" class="cbp_tmlabel">
+                            </div>
+                            <div class="cbp_tmlabel">
                                 <p class="title">허핑턴포스트코리아</p>
                                 <ul class="info">
                                     <li>장민주<div class="ui star large rating ml10" data-rating="3" data-max-rating="5"></div></li>
                                     <li><i class="thumbs up icon"></i>18</li>
+                                    <li>
+                                        <div class="ui basic small buttons" style="vertical-align: inherit;">
+                                            <a href="#0" class="ui orange button">수정</a>
+                                            <a href="#0" class="ui red button">삭제</a>
+                                        </div>
+                                    </li>
                                 </ul>
-                            </a>
+                            </div>
                         </div>
                     </li>
                 </ul>
