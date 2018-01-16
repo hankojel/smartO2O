@@ -837,6 +837,16 @@ blockquote p.author small {display: inline-block;}
 .checkImg input[disabled] ~ label {user-select: none!important; cursor: default !important;}
 label.correct:before {position: absolute; left: 50%; top: -20px; margin-left: -18px; font-size: 18px; color: #000; content: "정답";}
 
+.ui.checkbox label.like {padding: 7px 0 7px 30px; font-size: 0.92857143em; font-weight: 500;}
+.ui.checkbox label.like:before {width: 32px; height: 32px; text-align: center; line-height: 32px; color: rgba(0, 0, 0, 0.15); border: none; content: "\f164"; font-family: "Icons"; background: transparent !important;}
+.ui.checkbox input:checked ~ label.like {color: #1678c2;}
+.ui.checkbox input:checked ~ label.like:after {width: 32px; height: 32px; line-height: 32px; color: #1678c2 !important; content: "\f164"; font-family: "Icons";}
+
+.ui.checkbox label.like {margin: 0; padding: 0; font-size: 0.92857143em; font-weight: 500;}
+.ui.checkbox input:checked ~ label.like.icon {color: #1678c2;}
+.ui.checkbox label.like.icon:before,
+.ui.checkbox input:checked ~ label.like.icon:after {width: auto; height: auto; line-height: normal;}
+
 @media all and (max-width:1217px){
     .option-content > .ui.dropdown,
     .option-content .ui.input,
