@@ -842,7 +842,7 @@ label.correct:before {position: absolute; left: 50%; top: -20px; margin-left: -1
 .ui.checkbox input:checked ~ label.like {color: #1678c2;}
 .ui.checkbox input:checked ~ label.like:after {width: 32px; height: 32px; line-height: 32px; color: #1678c2 !important; content: "\f164"; font-family: "Icons";}
 
-.ui.checkbox label.like {margin: 0; padding: 0; font-size: 0.92857143em; font-weight: 500;}
+.ui.checkbox label.like.icon {margin: 0; padding: 0; font-size: 0.92857143em; font-weight: 500;}
 .ui.checkbox input:checked ~ label.like.icon {color: #1678c2;}
 .ui.checkbox label.like.icon:before,
 .ui.checkbox input:checked ~ label.like.icon:after {width: auto; height: auto; line-height: normal;}
