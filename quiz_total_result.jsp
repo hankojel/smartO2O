@@ -41,16 +41,16 @@
                 </div>
                 <div class="ui bottom attached segment">
                     <ul class="result-table">
-                        <li><a href="quiz_view_result.jsp"><span>01</span>62%</a></li>
-                        <li><a href="#0"><span>02</span>46%</a></li>
-                        <li><a href="#0"><span>03</span>83%</a></li>
-                        <li><a href="#0"><span>04</span>96%</a></li>
-                        <li><a href="#0"><span>05</span>78%</a></li>
-                        <li><a href="#0"><span>06</span>51%</a></li>
-                        <li><a href="#0"><span>07</span>59%</a></li>
-                        <li><a href="#0"><span>08</span>83%</a></li>
-                        <li><a href="#0"><span>09</span>90%</a></li>
-                        <li><a href="#0"><span>10</span>68%</a></li>
+                        <li><a href="quiz_view_result.jsp"><span>01</span>62%<sub>결과보기</sub></a></li>
+                        <li><a href="#0"><span>02</span>46%<sub>결과보기</sub></a></li>
+                        <li><a href="#0"><span>03</span>83%<sub>결과보기</sub></a></li>
+                        <li><a href="#0"><span>04</span>96%<sub>결과보기</sub></a></li>
+                        <li><a href="#0"><span>05</span>78%<sub>결과보기</sub></a></li>
+                        <li><a href="#0"><span>06</span>51%<sub>결과보기</sub></a></li>
+                        <li><a href="#0"><span>07</span>59%<sub>결과보기</sub></a></li>
+                        <li><a href="#0"><span>08</span>83%<sub>결과보기</sub></a></li>
+                        <li><a href="#0"><span>09</span>90%<sub>결과보기</sub></a></li>
+                        <li><a href="#0"><span>10</span>68%<sub>결과보기</sub></a></li>
                     </ul>
                 </div>
             </div>

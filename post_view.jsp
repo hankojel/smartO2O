@@ -15,6 +15,7 @@
                     <a href="#0" class="ui facebook large button" data-toggle="modal" data-target="#modal-post-write">의견등록</a>
                     <a href="#0" class="ui orange large button">수정</a>
                     <a href="#0" class="ui red large button">삭제</a>
+                    <a href="#0" class="ui grey large button">새로고침</a>
                 </div>
             </div>
             <img class="ui centered big image mt40" src="http://weekly.donga.com/docs/magazine/weekly/2010/02/04/201002040500024/image/201002040500024_1.jpg">

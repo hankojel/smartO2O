@@ -85,6 +85,7 @@ ul.result-table {overflow: hidden;}
 ul.result-table li {position: relative; float: left; width: 10%; text-align: center; border: 1px solid #fff; box-sizing: border-box; background: #7d7d7d;}
 ul.result-table li a {display: block; padding: 15px 0; font-size: 21px; color: #fff;}
 ul.result-table li span {position: absolute; top: 5px; left: 5px; font-family: 'Century Gothic'; font-size: 14px; color: rgba(255,255,255,.7);}
+ul.result-table li sub {position: absolute; bottom: 10px; left: 50%; margin-left: -20px; font-size: 11px; color: rgba(255,255,255,.7);}
 .prof-score {padding-bottom: 20px;}
 .prof-score .head {margin-bottom: 10px; font-size: 18px; color: #333;}
 .prof-score ul.result-table li {padding: 10px 0; font-size: 18px; color: #fff;}
@@ -150,6 +151,7 @@ footer .inner-wrap ul.copy li address {font-style:normal;}
 footer .inner-wrap .expand-link {position:absolute; top:8px; right:0; z-index:auto;}
 footer .inner-wrap .expand-link .chosen-drop {margin-bottom:-11px; border-bottom:0; border-top:1px solid #aaa; top:auto; bottom:40px;}
 footer .inner-wrap .expand-link .chosen-single {color:#ccc !important; background:none;}
+footer .inner-wrap .inverted {display: none;}
 
 
 
@@ -185,6 +187,7 @@ footer .inner-wrap .expand-link .chosen-single {color:#ccc !important; backgroun
     footer {margin-top: -40px; background: #666;}
     footer .inner-wrap ul.copy li {font-size: 11px; color: #fff;}
     footer .inner-wrap ul.copy li address {display: none;}
+    footer .inner-wrap .inverted {display: block;}
 }
 
 @media all and (max-width:767px){
